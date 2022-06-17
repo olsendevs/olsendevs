@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Olsen Dev](https://olsendev.com)
 
-- 👨‍💻 All of my projects are available at [olsendev.com](olsendev.com)
-
 - 📝 I regularly write articles on [olsendev.com/blog](olsendev.com/blog)
 
 - 💬 Ask me about **C#, SQL, JS**
