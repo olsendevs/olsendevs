@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Vitor Olsen</h1>
 <h3 align="center">Brazilian and professional software engineer</h3>
 
-- 🔭 I’m currently working on [Olsen Dev](olsendev.com)
+- 🔭 I’m currently working on [Olsen Dev](https://olsendev.com)
 
 - 👨‍💻 All of my projects are available at [olsendev.com](olsendev.com)
 
