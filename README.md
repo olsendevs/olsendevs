@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Olsen Dev](https://olsendev.com)
 
-- 📝 I regularly write articles on [olsendev.com/blog](olsendev.com/blog)
+- 📝 I regularly write articles on [Blog](olsendev.com/blog)
 
 - 💬 Ask me about **C#, SQL, JS**
 
 - 📫 How to reach me **joao.vitor@olsendev.com**
 
-- 📄 Know about my experiences [https://olsendev.com/sobre/](https://olsendev.com/sobre/)
+- 📄 Know about my experiences [About me](https://olsendev.com/sobre/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
