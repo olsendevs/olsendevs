@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Vitor Olsen</h1>
-<h3 align="center">Brazilian and professional software engineer</h3>
+<h3 align="center">Brazilian and senior software engineer</h3>
 
 - 🔭 I’m currently working on [Olsen Dev](https://olsendev.com)
 
