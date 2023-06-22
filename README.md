@@ -4,7 +4,7 @@
 
 - 📢 **Searching for open source projects to participate**
   
-- 💬 Ask me about **.NET Core, NestJS, Express, Prisma**
+- 💬 Ask me about **Software Architecture, Agile Development, JavaScript, TypeScript, Node.js, Express, NestJS, Frontend Frameworks (React, Angular, Vue), Databases (SQL, NoSQL), Microservices, Docker, Kubernetes, CI/CD, Cloud Platforms (AWS, GCP, Azure), .NET Core**
 
 - 📫 How to reach me **joao.vitor@olsendev.com**
 
