@@ -1,11 +1,8 @@
 <h1 align="center">💻♥</h1>
 <h3 align="center">senior software engineer</h3>
 
-- 🔭 I’m currently working on [OlsenDevs](https://olsendevs.com)
 
-- 📝 I regularly write articles on [Blog](olsendev.com/blog)
-
-- 💬 Ask me about **C#, SQL, JS**
+- 💬 Ask me about **.NET Core, NestJS, Express, Prisma**
 
 - 📫 How to reach me **joao.vitor@olsendev.com**
 
