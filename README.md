@@ -1,5 +1,5 @@
-<h1 align="center">💻♥</h1>
-<h3 align="center">senior software engineer</h3>
+<h1 >💻♥</h1>
+<h3>senior software engineer</h3>
 
 
 - 💬 Ask me about **.NET Core, NestJS, Express, Prisma**
