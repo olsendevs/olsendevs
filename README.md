@@ -1,5 +1,5 @@
 
-<h1>Senior Software Engineer 💻♥🧡</h1>
+<h1>Senior Software Engineer 💻🧡</h1>
 
 
 - 📢 **Searching for Bitcoin open source projects to participate**
