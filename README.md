@@ -3,14 +3,16 @@
 
 
 - 📢 **Searching for Bitcoin open source projects to participate**
-  
-- 💬 Ask me about **Software architecture and engineering, Bitcoin, JavaScript (TypeScript, Node.js, NestJS, React, ReactNative), Databases (SQL, NoSQL), Microservices, Docker, Kubernetes, CI/CD, Cloud Platforms (AWS, GCP, Azure) and .NET Core**
 
 - 📫 How to reach me **joao.vitor@olsendev.com**
 
+- 💬 Experience with **Software architecture and engineering, Bitcoin, JavaScript (TypeScript, Node.js, NestJS, React, ReactNative),  .NET,  Databases (SQL, NoSQL), Microservices, Docker, Kubernetes, CI/CD, Cloud Platforms (AWS, GCP, Azure) and more...**
+
 - 🧡 Creator of [Weeks until halving](https://weeksuntilhalving.live)
 
-- 📄 Know about my experiences [clicking here!](https://olsendev.com/sobre/)
+- ✖ Updates and new projects in [@olsendevs](https://twitter.com/olsendevs)
+
+
 
 <a href="https://www.codewars.com/users/jolsendev" target="_blank"><img align="center" src="https://www.codewars.com/users/jolsendev/badges/large" alt="codewars" /> </a>
 <h2>Useful links</h2>
@@ -19,4 +21,4 @@
 
 - 🧡 [Bitcoin Paper (PT-BR)](https://bitcoin.org/files/bitcoin-paper/bitcoin_pt_br.pdf)
 
-- 🧡 [Weeks until Bitcoin halving](https://weeksuntilhalving.live)
+- 🧡 [How much time until Bitcoin next halving?](https://weeksuntilhalving.live)
