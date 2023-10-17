@@ -2,7 +2,7 @@
 <h1>Senior Software Engineer 💻♥</h1>
 
 
-- 📢 **Searching for open source projects to participate**
+- 📢 **Searching for Bitcoin open source projects to participate**
   
 - 💬 Ask me about **Software architecture and engineering, Bitcoin, JavaScript, TypeScript, Node.js, NestJS, React, Databases (SQL, NoSQL), Microservices, Docker, Kubernetes, CI/CD, Cloud Platforms (AWS, GCP, Azure), .NET Core**
 
