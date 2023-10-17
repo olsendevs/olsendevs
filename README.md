@@ -22,3 +22,7 @@
 - 🧡 [Bitcoin Paper (PT-BR)](https://bitcoin.org/files/bitcoin-paper/bitcoin_pt_br.pdf)
 
 - 🧡 [How much time until Bitcoin next halving?](https://weeksuntilhalving.live)
+  
+- 🧡 [Bitcoin Fear & Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
+
+
