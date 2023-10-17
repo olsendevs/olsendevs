@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [About me](https://olsendev.com/sobre/)
 
-- weeksuntilhalving.live
+[Weeks until Bitcoin halving](weeksuntilhalving.live)
 
 <a href="https://www.codewars.com/users/jolsendev" target="_blank"><img align="center" src="https://www.codewars.com/users/jolsendev/badges/large" alt="codewars" /> </a>
 
