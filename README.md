@@ -17,7 +17,7 @@
 <a href="https://www.codewars.com/users/jolsendev" target="_blank"><img align="center" src="https://www.codewars.com/users/jolsendev/badges/large" alt="codewars" /> </a>
 <h2>Useful links</h2>
 
-- 🧡 [BTC P2P](https://spiketospike.com)
+- 🧡 [Bitcoin P2P](https://spiketospike.com)
 
 - 🧡 [Bitcoin Paper](https://bitcoin.org/bitcoin.pdf)
 
