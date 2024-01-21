@@ -1,7 +1,7 @@
 
 <h1>Senior Software Engineer 💻🧡</h1>
 
-- 🧡 Creator of [SProvider](https://spiketospike.com)
+- 🧡 Creator of [SpikeProvider](https://spiketospike.com)
 
 - 💬 Experience with **Software architecture and engineering, Bitcoin, JavaScript (TypeScript, Node.js, NestJS, React, ReactNative),  .NET,  Databases (SQL, NoSQL), Microservices, Docker, Kubernetes, CI/CD, Cloud Platforms (AWS, GCP, Azure) and more...**
 
