@@ -3,8 +3,6 @@
 
 - 💬 Experience with **Software architecture and engineering, Bitcoin, JavaScript (TypeScript, Node.js, NestJS, React, ReactNative),  .NET,  Databases (SQL, NoSQL), Microservices, Docker, Kubernetes, CI/CD, Cloud Platforms (AWS, GCP, Azure) and more...**
 
-- ✖ Updates and new projects in [@olsendevs](https://twitter.com/olsendevs)
-
 - 📫 How to reach me **joao.vitor@olsendev.com**
 
 <a href="https://www.codewars.com/users/jolsendev" target="_blank"><img align="center" src="https://www.codewars.com/users/jolsendev/badges/large" alt="codewars" /> </a>
