@@ -1,8 +1,6 @@
 
 <h1>Senior Software Engineer 💻🧡</h1>
 
-- 🧡 Creator of  [SpikeProvider](https://spiketospike.com/?referral=OLSEN)
-
 - 💬 Experience with **Software architecture and engineering, Bitcoin, JavaScript (TypeScript, Node.js, NestJS, React, ReactNative),  .NET,  Databases (SQL, NoSQL), Microservices, Docker, Kubernetes, CI/CD, Cloud Platforms (AWS, GCP, Azure) and more...**
 
 - ✖ Updates and new projects in [@olsendevs](https://twitter.com/olsendevs)
@@ -11,8 +9,6 @@
 
 <a href="https://www.codewars.com/users/jolsendev" target="_blank"><img align="center" src="https://www.codewars.com/users/jolsendev/badges/large" alt="codewars" /> </a>
 <h2>Useful links</h2>
-
-- 🧡 [Bitcoin P2P](https://spiketospike.com/?referral=OLSEN)
 
 - 🧡 [Bitcoin Paper](https://bitcoin.org/bitcoin.pdf)
 
